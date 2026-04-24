@@ -1,7 +1,7 @@
-AIM: REAL WORLD AND INTERACTIVE VISUALIZATIONS
+# AIM: REAL WORLD AND INTERACTIVE VISUALIZATIONS
 
 
-THEORY:
+# THEORY:
 In this experiment, we implemented different types of data visualizations using Python, where each graph was created using specific libraries and commands.
 The goal was to understand not just the graphs, but also how the code works behind them.
 
@@ -62,6 +62,6 @@ Values are plotted and connected
 Useful for comparing multiple attributes (like skills) in one view.
 
 
-CONCLUSION:
+# CONCLUSION:
 This experiment not only demonstrated different types of data visualizations but also helped in understanding the logic
 behind the code used to create them. It improved our ability to work with Python libraries and select appropriate graphs for different types of data.
